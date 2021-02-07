@@ -1,7 +1,3 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +31,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#redu {
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+#tex{
+  text-align: center;
+  background-color: rgb(39, 119, 223);
 }
